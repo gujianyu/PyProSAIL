@@ -9,17 +9,17 @@
 ! Stanford, CA 94305, USA
 ! E-mail: jbferet@stanford.edu
 !
-! Stéphane JACQUEMOUD
+! St#phane JACQUEMOUD
 !
-! Université Paris Diderot / Institut de Physique du Globe de Paris
-! 35 rue Hélène Brion
+! Universit# Paris Diderot / Institut de Physique du Globe de Paris
+! 35 rue H#l#ne Brion
 ! 75013 Paris, France
 ! E-mail: jacquemoud@ipgp.fr
 !
 ! http://teledetection.ipgp.fr/prosail/
 !
 ! ********************************************************************************
-! Féret J.B., François C., Asner G.P., Gitelson A.A., Martin R.E., Bidel L.P.R.,
+! F#ret J.B., Fran#ois C., Asner G.P., Gitelson A.A., Martin R.E., Bidel L.P.R.,
 ! Ustin S.L., le Maire G., Jacquemoud S. (2008), PROSPECT-4 and 5: Advances in the
 ! leaf optical properties model separating photosynthetic pigments, Remote Sensing
 ! of Environment, 112:3030-3043.
